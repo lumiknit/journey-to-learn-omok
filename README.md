@@ -1,5 +1,7 @@
 # Journey to Learn OMOK
 
+Copyright (c) 2022 lumiknit (aasr4r4@gmail.com)
+
 RL(?) project notes.
 
 ## Chapters
