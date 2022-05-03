@@ -10,9 +10,9 @@ RL(?) project notes!
 - [02. Understand OMOK](02_understand_omok.ipynb)
 - [03. Monte Carlo Tree Search](03_monte_carlo_tree_search.ipynb)
 - [04. Fast Kibo Generation](04_fast_kibo_generation.ipynb)
-- [05. First Trial with Intuition of MCTS](05_first_trial_with_intuition_of_mcts.ipynb)
+- [05. First Attempt with Intuition of MCTS](05_first_attempt_with_intuition_of_mcts.ipynb)
 - [06. Better Way to Gather Good Data](06_better_way_to_gather_good_data.ipynb)
-- [07. Second Trial of Training](07_second_trial_of_training.ipynb)
+- [07. Second Attempt of Training](07_second_attempt_of_training.ipynb)
 
 ## Work in Place ㅠ
 
