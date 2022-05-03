@@ -16,6 +16,6 @@ RL(?) project notes!
 
 ## Work in Place ㅠ
 
-- 08\. Third Trial with Learning from Wrong Answers
+- [08. Third Attempt with Learning from Wrong Answers](08_third_attempt_with_learning_from_wrong_answers)
 - xx\. Open Negotiation for Rewards
 - xx\. Q in MC
