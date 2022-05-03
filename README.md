@@ -13,10 +13,10 @@ RL(?) project notes!
 - [05. First Attempt with Intuition of MCTS](05_first_attempt_with_intuition_of_mcts.ipynb)
 - [06. Better Way to Gather Good Data](06_better_way_to_gather_good_data.ipynb)
 - [07. Second Attempt of Training](07_second_attempt_of_training.ipynb)
-- [08. Third Attempt with Learning from Wrong Answers](08_third_attempt_with_learning_from_wrong_answers)
+- [08. Third Attempt with Learning from Wrong Answers](08_third_attempt_with_learning_from_wrong_answers.ipynb)
 
 ## Work in Place ㅠ
 
-- [09. 4th Attempt with Learning from Wrong Answers 2](09_4th_attempt_with_learning_from_wrong_answers_2)
+- [09. 4th Attempt with Learning from Wrong Answers 2](09_4th_attempt_with_learning_from_wrong_answers_2.ipynb)
 - xx\. Open Negotiation for Rewards
 - xx\. Q in MC
