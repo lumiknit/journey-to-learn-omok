@@ -15,9 +15,10 @@ RL(?) project notes!
 - [07. Second Attempt of Training](07_second_attempt_of_training.ipynb)
 - [08. Third Attempt with Learning from Wrong Answers](08_third_attempt_with_learning_from_wrong_answers.ipynb)
 - [09. 4th Attempt with Learning from Wrong Answers 2](09_4th_attempt_with_learning_from_wrong_answers_2.ipynb)
+- [10. Deep Tree Search with Naive Pruning](10_deep_tree_search_with_naive_pruning.ipynb)
 
 ## Work in Place / To-Do ㅠ
 
 - xx\. Encoding of Board
-- xx\. 4-connect
 - xx\. Feature Engineering
+- xx\. Pruning with DNN
