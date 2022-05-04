@@ -3,6 +3,8 @@
 Copyright (c) 2022 lumiknit (aasr4r4@gmail.com)
 
 RL(?) project notes!
+As it goes along without study about state-of-arts,
+each notebooks seem quite wandering...
 
 ## Chapters
 
@@ -22,5 +24,5 @@ RL(?) project notes!
 - [11. Feature Engineering for Value Network](11_feature_engineering_for_value_network)
 
 - aa\. MCTS for Omok
+- aa\. MCTS with Neural Network
 - ii\. i-th Attempt with ...
-- xx\. Encoding of Board
