@@ -7,7 +7,7 @@ RL(?) project notes!
 ## Chapters
 
 - [01. DQN with TicTacToe](01_dqn_with_tictactoe.ipynb)
-- [02. Understand OMOK](02_understand_omok.ipynb)
+- [02. Understand Omok](02_understand_omok.ipynb)
 - [03. Monte Carlo like Approach](03_monte_carlo_like_approach.ipynb)
 - [04. Fast Kibo Generation](04_fast_kibo_generation.ipynb)
 - [05. First Attempt with Value Network](05_first_attempt_with_value_network.ipynb)
@@ -19,5 +19,8 @@ RL(?) project notes!
 
 ## Work in Place / To-Do ㅠ
 
+- [11. Feature Engineering for Value Network](11_feature_engineering_for_value_network)
+
+- aa\. MCTS for Omok
+- ii\. i-th Attempt with ...
 - xx\. Encoding of Board
-- xx\. Feature Engineering
