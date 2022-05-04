@@ -8,9 +8,9 @@ RL(?) project notes!
 
 - [01. DQN with TicTacToe](01_dqn_with_tictactoe.ipynb)
 - [02. Understand OMOK](02_understand_omok.ipynb)
-- [03. Monte Carlo Tree Search](03_monte_carlo_tree_search.ipynb)
+- [03. Monte Carlo like Approach](03_monte_carlo_like_approach.ipynb)
 - [04. Fast Kibo Generation](04_fast_kibo_generation.ipynb)
-- [05. First Attempt with Intuition of MCTS](05_first_attempt_with_intuition_of_mcts.ipynb)
+- [05. First Attempt with Value Network](05_first_attempt_with_value_network.ipynb)
 - [06. Better Way to Gather Good Data](06_better_way_to_gather_good_data.ipynb)
 - [07. Second Attempt of Training](07_second_attempt_of_training.ipynb)
 - [08. Third Attempt with Learning from Wrong Answers](08_third_attempt_with_learning_from_wrong_answers.ipynb)
@@ -21,4 +21,3 @@ RL(?) project notes!
 
 - xx\. Encoding of Board
 - xx\. Feature Engineering
-- xx\. Pruning with DNN
