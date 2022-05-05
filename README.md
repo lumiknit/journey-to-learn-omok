@@ -21,9 +21,10 @@ each notebooks seem quite wandering...
 
 ## Work in Place / To-Do ㅠ
 
-- [11. Feature Engineering for Value Network](11_feature_engineering_for_value_network)
-- [12. Action Value Network](12_action_value_network)
+- [11. Policy Iteration](12_policy_iteration)
+
 
 - aa\. MCTS for Omok
 - aa\. MCTS with Neural Network
 - ii\. i-th Attempt with ...
+- xx\. Feature Engineering for Value Network
