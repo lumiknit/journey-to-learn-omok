@@ -18,11 +18,12 @@ each notebooks seem quite wandering...
 - [08. Third Attempt with Learning from Wrong Answers](08_third_attempt_with_learning_from_wrong_answers.ipynb)
 - [09. 4th Attempt with Learning from Wrong Answers 2](09_4th_attempt_with_learning_from_wrong_answers_2.ipynb)
 - [10. Deep Tree Search with Naive Pruning](10_deep_tree_search_with_naive_pruning.ipynb)
+- [11. RL Notes](11_rl_notes.ipynb)
 
 ## Work in Place / To-Do ㅠ
 
-- [11. RL Notes](11_rl_notes.ipynb)
-- [12. Connect 4 and MCTS](12_connect_4_and_mcts.ipynb)
+- [12. Play with Connect 4](12_play_with_connect_4.ipynb)
+- [13. Connect 4 and MCTS](13_connect_4_and_mcts.ipynb)
 
 - aa\. MCTS for Omok
 - aa\. MCTS with Neural Network
