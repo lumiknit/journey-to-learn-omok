@@ -21,8 +21,8 @@ each notebooks seem quite wandering...
 
 ## Work in Place / To-Do ㅠ
 
-- [11. Policy Iteration](12_policy_iteration)
-
+- [11. RL Notes](11_rl_notes.ipynb)
+- [12. Connect 4 and MCTS](12_connect_4_and_mcts.ipynb)
 
 - aa\. MCTS for Omok
 - aa\. MCTS with Neural Network
