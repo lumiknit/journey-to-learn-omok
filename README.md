@@ -40,6 +40,8 @@ each notebooks seem quite wandering...
 - [14. REINFORCE and Tree Search on Connect 4](14_reinforce_and_tree_search_on_connect_4.ipynb)
 
 - [15. Policy Gradient for Omok](15_policy_gradient_for_omok.ipynb)
+- [16. Actor-Critic](16_actor_critic.ipynb)
+- [99. Conclusion](99_conclusion.ipynb)
 
 - aa\. MCTS for Omok
 - aa\. MCTS with Neural Network
