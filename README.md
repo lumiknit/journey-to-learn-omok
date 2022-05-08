@@ -20,12 +20,13 @@ each notebooks seem quite wandering...
 - [10. Deep Tree Search with Naive Pruning](10_deep_tree_search_with_naive_pruning.ipynb)
 - [11. RL Notes](11_rl_notes.ipynb)
 - [12. Play with Connect 4](12_play_with_connect_4.ipynb)
+- [13. Tree Search with Policy on Connect 4](13_tree_search_with_policy_on_connect_4.ipynb)
 
 ## Work in Place / To-Do ㅠ
 
-- [13. Tree Search with Policy on Connect 4](13_tree_search_with_policy_on_connect_4.ipynb)
 - [14. REINFORCE and Tree Search on Connect 4](14_reinforce_and_tree_search_on_connect_4.ipynb)
-- [15. Actor-Critic and Tree Search on Connect 4](15_actor_critic_and_tree_search_on_connect_4.ipynb)
+
+- [15. Policy Gradient for Omok](15_policy_gradient_for_omok.ipynb)
 
 - aa\. MCTS for Omok
 - aa\. MCTS with Neural Network
