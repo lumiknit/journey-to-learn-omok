@@ -42,8 +42,3 @@ each notebooks seem quite wandering...
 - [15. Policy Gradient for Omok](15_policy_gradient_for_omok.ipynb)
 - [16. Actor-Critic](16_actor_critic.ipynb)
 - [99. Conclusion](99_conclusion.ipynb)
-
-- aa\. MCTS for Omok
-- aa\. MCTS with Neural Network
-- ii\. i-th Attempt with ...
-- xx\. Feature Engineering for Value Network
