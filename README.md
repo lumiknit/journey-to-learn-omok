@@ -24,7 +24,8 @@ each notebooks seem quite wandering...
 ## Work in Place / To-Do ㅠ
 
 - [13. Tree Search with Policy on Connect 4](13_tree_search_with_policy_on_connect_4.ipynb)
-- [14. Actor-Critic and Tree Search on Connect 4](14_actor_critic_and_tree_search_on_connect_4.ipynb)
+- [14. REINFORCE and Tree Search on Connect 4](14_reinforce_and_tree_search_on_connect_4.ipynb)
+- [15. Actor-Critic and Tree Search on Connect 4](15_actor_critic_and_tree_search_on_connect_4.ipynb)
 
 - aa\. MCTS for Omok
 - aa\. MCTS with Neural Network
