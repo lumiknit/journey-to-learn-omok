@@ -6,6 +6,8 @@ RL(?) project notes!
 As it goes along without study about state-of-arts,
 each notebooks seem quite wandering...
 
+The below notes are written and tested on Google Colab.
+
 ## Chapters
 
 ### Warming-up
