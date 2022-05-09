@@ -36,11 +36,16 @@ The below notes are written and tested on Google Colab.
 
 - [12. Play with Connect 4](12_play_with_connect_4.ipynb)
 - [13. Tree Search with Policy on Connect 4](13_tree_search_with_policy_on_connect_4.ipynb)
+- [14. REINFORCE and Tree Search on Connect 4](14_reinforce_and_tree_search_on_connect_4.ipynb)
 
 ### Work in Place / To-Do ㅠ
 
-- [14. REINFORCE and Tree Search on Connect 4](14_reinforce_and_tree_search_on_connect_4.ipynb)
+(Omok again)
+- [15. Policy Gradient and Omok](15_policy_gradient_and_omok.ipynb)
+- [16. Self-play Learning](16_self_play_learning.ipynb)
+- [17. Actor-Critic](17_actor_critic.ipynb)
 
-- [15. Policy Gradient for Omok](15_policy_gradient_for_omok.ipynb)
-- [16. Actor-Critic](16_actor_critic.ipynb)
+- [2x. Feature Engineering](2x_feature_engineering.ipynb)
+
+(Conclusion)
 - [99. Conclusion](99_conclusion.ipynb)
