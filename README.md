@@ -41,16 +41,15 @@ The below notes are written and tested on Google Colab.
 ### Try Omok Again
 
 - [15. 5th Attempt: Policy Gradient](15_5th_attempt_policy_gradient_and_omok.ipynb)
+- [16. 6th Attempt: Catch Up Faster](16_6th_attempt_catch_up_faster.ipynb)
 
 ### Work in Place / To-Do
 
-- [16. 6th Attempt: Catch Up Faster](16_6th_attempt_catch_up_faster.ipynb)
-
-
-- [1x. Learn from Mistakes](2x_learn_from_mistake.ipynb)
-- [1x. Neural Network Structures](2x_neural_network_structures.ipynb)
+- [2x. Learn from Mistakes](2x_learn_from_mistake.ipynb)
+- [2x. Neural Network Structures](2x_neural_network_structures.ipynb)
 - [2x. Self-play Learning](2x_self_play_learning.ipynb)
 - [2x. Actor-Critic and Q](2x_actor_critic_and_q.ipynb)
+- [2x. Replay Memoery](2x_replay_memory.ipynb)
 
 - [2x. Feature Engineering](2x_feature_engineering.ipynb)
 
