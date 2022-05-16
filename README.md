@@ -47,7 +47,7 @@ The below notes are written and tested on Google Colab.
 
 ### Work in Place / To-Do
 
-- [19. 9th_Attempt: MCTS with Networks 2](19_9th_attempt_MCTS_with_networks.ipynb)
+- [19. Feature Engineering](19_feature_engineering.ipynb)
 
 (Conclusion)
 - [99. Conclusion and Discussion](99_conclusion_and_discussion.ipynb)
