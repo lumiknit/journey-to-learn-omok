@@ -44,10 +44,10 @@ The below notes are written and tested on Google Colab.
 - [16. 6th Attempt: Catch Up Faster](16_6th_attempt_catch_up_faster.ipynb)
 - [17. 7th Attempt: A2C (Fail)](17_7th_attempt_a2c.ipynb)
 - [18. 8th_Attempt: MCTS with Networks](18_8th_attempt_MCTS_with_networks.ipynb)
+- [19. 9th Attempt: Beat My Algorithm Down](19_9th_attempt_beat_my_algorithm_down.ipynb) (Weight: `19_weight_10hr`)
 
-### Work in Place / To-Do
+### Summary
 
-- [19. Feature Engineering](19_feature_engineering.ipynb)
+- [20. Summary about Attempts](20_summary_about_attempts.ipynb)
 
-(Conclusion)
-- [99. Conclusion and Discussion](99_conclusion_and_discussion.ipynb)
+### Appendix
