@@ -53,3 +53,7 @@ The below notes are written and tested on Google Colab.
 ### Appendix
 
 - [A. Importance Sampling and Off-policy MCPG](app_a_importance_sampling_and_off_policy_mcpg.ipynb)
+
+## Writing in Progress
+
+- [B. Knock Down Each Other from Now on](app_b_knock_down_each_other_from_now_on.ipynb)
