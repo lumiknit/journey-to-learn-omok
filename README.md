@@ -54,8 +54,8 @@ The below notes are written and tested on Google Colab.
 
 - [A. Importance Sampling and Off-policy MCPG](app_a_importance_sampling_and_off_policy_mcpg.ipynb)
 - [B. Knock Down Each Other from Now on](app_b_knock_down_each_other_from_now_on.ipynb) (Weight: `app_b_last.weight`)
+- [C. Help Each Other from Now on](app_c_help_each_other_from_now_on.ipynb)
 
 ## Writing in Progress
 
-- [C. Help Each Other from Now on](app_c_help_each_other_from_now_on.ipynb)
-- [D. Is Deeper One Better?](app_d_is_deeper_one_better.ipynb)
+- [D. Go to the Wider World](app_d_go_to_the_wider_world.ipynb)
