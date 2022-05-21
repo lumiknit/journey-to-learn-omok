@@ -2,11 +2,16 @@
 
 Copyright (c) 2022 lumiknit (aasr4r4@gmail.com)
 
-RL(?) project notes!
+Reinforcement learning notes to train OMOK agent!
 As it goes along without study about state-of-arts,
 each notebooks seem quite wandering...
 
 The below notes are written and tested on Google Colab.
+
+오목 강화학습 노트입니다!
+처음에 제대로 공부하지 않고 만들기 시작해서 헤매던 부분이 있습니다...
+
+아래 노트는 전부 Google Colab에서 
 
 ## Chapters
 
