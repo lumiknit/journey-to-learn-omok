@@ -61,9 +61,8 @@ The below notes are written and tested on Google Colab.
 - [B. Knock Down Each Other from Now on](app_b_knock_down_each_other_from_now_on.ipynb) (Weight: `app_b_last.weight`)
 - [C. Help Each Other from Now on](app_c_help_each_other_from_now_on.ipynb)
 - [D. Go to the Wider World](app_d_go_to_the_wider_world.ipynb)
+- [E. Usage of Trained Weight](app_e_usage_of_trained_weight.ipynb)
 
 ### Writing in Progress
 
-- [E. Usage of Trained Weight](app_e_usage_of_trained_weight.ipynb)
 - [F. Visualization and Cooperation with Agent](app_f_visualization_and_cooperation_with_agent.ipynb)
-- [G. Visualize Policy Difference](app_g_visualize_policy_difference.ipynb)
