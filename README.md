@@ -63,3 +63,7 @@ The below notes are written and tested on Google Colab.
 - [D. Go to the Wider World](app_d_go_to_the_wider_world.ipynb)
 - [E. Usage of Trained Weight](app_e_usage_of_trained_weight.ipynb)
 - [F. Visualization and Cooperation with Agent](app_f_visualization_and_cooperation_with_agent.ipynb)
+
+## Notes
+
+-[Journey to Learn Omok.pdf](Journey to Learn Omok.pdf)
