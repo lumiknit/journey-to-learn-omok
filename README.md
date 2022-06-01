@@ -66,4 +66,4 @@ The below notes are written and tested on Google Colab.
 
 ## Notes
 
--[Journey to Learn Omok.pdf](Journey to Learn Omok.pdf)
+- [Journey to Learn Omok.pdf](journey_to_learn_omok.pdf)
